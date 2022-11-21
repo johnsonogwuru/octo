@@ -1,4 +1,4 @@
-# Goa example
+# Octo
 
 This repo is example code inspired by Lawrence Jones:
 
