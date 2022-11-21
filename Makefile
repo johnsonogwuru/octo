@@ -2,7 +2,7 @@
 
 # Generate backend code and API specification from Goa design.
 api/gen:
-	goa gen github.com/lawrencejones/goa-example/api/design -o api
+	goa gen github.com/ogwurujohnson/shareabletypes/api/design -o api
 
 # Download openapi-generator, which we use to generate clients.
 openapi-generator-cli.jar:
