@@ -1,5 +1,5 @@
 # Goa example
 
-This repo is example code associated with:
+This repo is example code inspired by Lawrence Jones:
 
-- https://blog.lawrencejones.dev/goa
+- https://blog.lawrencejones.dev
